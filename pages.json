@@ -81,6 +81,12 @@
 			"style": {
 				"navigationBarTitleText": "添加文章"
 			}
+		},
+		{
+			"path": "pages/tool/tool",
+			"style": {
+				"navigationBarTitleText": "我的工具"
+			}
 		}
 	],
 	"globalStyle": {
@@ -88,7 +94,6 @@
 		"navigationBarTitleText": "uni-app",
 		"backgroundColor": "#F8F8F8"
 	},
-	// "uniIdRouter": {},
 	"tabBar": {
 		"color": "#000000",
 		"selectedColor": "#fa2c19",
